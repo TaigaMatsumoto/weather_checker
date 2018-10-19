@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather checker
 
 Practice application project created with React.
@@ -33,3 +34,15 @@ As a default, the application runs on port 3000 so go to http://localhost:3000/
 # Usage
 
 This app is made for practice purpose. You can try my weather app:)
+=======
+
+Please download zip file of Weather_checker!!
+
+After unzip the file
+
+
+npm install
+
+npm start
+
+>>>>>>> 92d0cedbe8b5e0ae65bccbc323230c0af2039a6e
